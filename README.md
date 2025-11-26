@@ -61,6 +61,16 @@ A command-line based task manager:
 
 ---
 
+### 4️⃣ Guessing Game
+A fun number guessing game:
+- Guess a number between 1 and 10  
+- Get hints if your guess is too high or too low  
+- Console-based Python script
+
+🔗 Script: [guessing_game.py](guessing_game.py)
+
+---
+
 ## 🎨 Aesthetic Badges
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
