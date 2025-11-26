@@ -1,50 +1,118 @@
-# Asmita’s Python Portfolio
+# 🌸 Asmita Rawate — Python Developer (Medium Level)
 
-Welcome to my portfolio!  
-This repository contains simple Python projects I made while learning Python.
-
----
-
-## 🚀 Projects Included
-
-### **1️⃣ Calculator App**
-- Performs basic arithmetic operations  
-- Clean and simple Python script  
-- Beginner-friendly  
-- Fully functional
+Hi! I am **Asmita**, a beginner-to-medium level Python programmer who builds small apps, automations, tools, and scripts — all from a mobile device.  
+I love creating **cute, aesthetic, and well-designed app concepts** with clean logic and practical features.
 
 ---
 
-### **2️⃣ Notes App (CLI Version)**
-- Create, view, and save notes  
-- Works in terminal  
-- Data stored in a simple Python file  
-- Easy and minimal design  
+## ✨ About Me
+- 📱 Python developer using mobile tools  
+- 🎀 I design UI concepts with aesthetic layouts  
+- 💡 I build real working scripts for small apps  
+- 🎯 My goal: Internships + Freelancing (Per-task work)  
+- 🇮🇳 Based in India  
 
 ---
 
-### **3️⃣ To-Do List App**
+## 🛠 Skills
+
+### **Languages & Tools**
+- 🐍 Python (Medium Level)
+- 📄 File Handling
+- 🔐 Basic Logic Building
+- 📊 Data Entry & Small Analytics
+- 💫 App UI Concept Designing
+- ☁ GitHub (Beginner)
+
+---
+
+## 📂 My Python Projects
+
+### **1. Calculator App (Python Script)**
+A simple interactive calculator that supports:
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
+
+🔗 **Script:** [calculator.py](calculator.py)
+
+---
+
+### **2. Notes App (Concept + Script)**
+A planned notes application with:
+- Aesthetic pink UI  
+- Lined notebook-style page  
+- Favorites filter  
+- Search bar  
+- Add/update/delete notes  
+
+🔗 **Script:** [notes_app.py](notes_app.py)
+
+---
+
+### **3. To-Do List App**
+A command-line based task manager:
 - Add tasks  
 - View tasks  
-- Mark tasks as completed  
-- Python console-based interface  
+- Mark completed  
+
+🔗 **Script:** [todo.py](todo.py)
 
 ---
 
-## 📱 How to Run These Files
+## 🎨 Aesthetic Badges
 
-1. Download the Python file (.py)  
-2. Open it in any Python environment  
-   - Phone: QPython / PyDroid (free version)  
-   - Laptop: Python 3  
-3. Run the script
-
----
-
-## 👩‍💻 About Me  
-I am Asmita Rawate, learning Python and building small projects.  
-This portfolio will grow as I learn more.
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Made with ❤️ by Asmita](https://img.shields.io/badge/Made%20with-❤️-pink)
+![Mobile Developer](https://img.shields.io/badge/Developing%20on-Android-purple)
+![GitHub](https://img.shields.io/badge/GitHub-Beginner-green)
 
 ---
 
-## ⭐ Thank you for visiting!
+## 📸 Screenshots / Output Samples
+> (More visual mockups coming soon!)
+
+For now, here is what my scripts produce:
+
+### Calculator Output Example
+```
+Enter first number: 10
+Enter second number: 70
+Choose operation (+, -, *, /): *
+Result: 700.0
+```
+
+### Guessing Game Output Example
+```
+Computer picked a number between 1-10
+Your guess: 7 → Too high!
+Your guess: 5 → Correct!
+```
+
+---
+
+## 💼 What I Can Do for You
+I can work on:
+- Python small scripts  
+- Simple automation  
+- Small app logic  
+- Data entry  
+- Formatting  
+- UI concept sketching  
+
+I am open for:
+- Internships  
+- Micro freelancing  
+- Per-task payments  
+- Remote opportunities  
+
+---
+
+## 📫 Contact Me
+- GitHub: github.com/asmigarauta25  
+- Email: *(You can add later)*  
+
+---
+
+### 🌸 Thank you for visiting my portfolio!
