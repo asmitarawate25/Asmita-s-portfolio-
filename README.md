@@ -110,8 +110,8 @@ I am open for:
 ---
 
 ## 📫 Contact Me
-- GitHub: github.com/asmigarauta25  
-- Email: *(You can add later)*  
+- GitHub: github.com/asmitarawate25  
+- Email: asmitarawate25@gmail.com 
 
 ---
 
